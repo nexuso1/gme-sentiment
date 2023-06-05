@@ -1,0 +1,11 @@
+# Ignored files
+tester.ipynb
+# Ignored dirs
+venv/
+maildir/
+.idea/
+.vscode/
+Models/__pycache__/
+.R*
+/*/__pycache__
+__pycache__
