@@ -1,6 +1,11 @@
-# Ročníkový projekt a bakalárska práca Samuela Fančiho
+# Gamestop Sentiment and Network analysis
 
-Ročníkový projekt Samuela Fančiho (NPRG045)
+This project includes the analysis of user posts from Reddit and Twitter relevant for GameStop,
+during a period leading up to the short-squeeze and for around a year after. The data is
+hand-annotated.
+
+We also analyzed a network created from the Twitter posts based on users following or replying to 
+each other.
 
 ## Folders
 - ``Data`` - Contains various generated and annotated datasets
